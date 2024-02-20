@@ -9,7 +9,7 @@
 To have 20 Variants in total.
 
 Process of creating a variant:
-1. Pick an exercise.
+1. Pick a scenario(exercise).
 2. Plan a variant in GNS3. Use available network templates. *do not configure* devices, this will be done later by Elad and Miro.
 3. Write an intent of what needs to be configured. for example: “Define Router FIREWALL to act as a firewall, Switch1 is in zone1 and Switch2 is in zone2”
 4. Submit variant + intent to Rami for approval.
