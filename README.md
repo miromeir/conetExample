@@ -14,3 +14,7 @@ Process of creating a variant:
 3. Write an intent of what needs to be configured. for example: “Define Router FIREWALL to act as a firewall, Switch1 is in zone1 and Switch2 is in zone2”
 4. Submit variant + intent to Rami for approval.
 5. Devices configuration(done by Elad and Miro).
+
+## Available Scenarios
+1. [Basic Firewall Zones](https://gns3vault.com/security/basic-zone-based-firewall)
+2. [Add IDS](https://gns3vault.com/security/ip-traffic-export)
