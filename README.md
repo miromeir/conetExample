@@ -18,4 +18,4 @@ Process of creating a variant:
 ## Available Scenarios
 1. [Basic Firewall Zones](https://gns3vault.com/security/basic-zone-based-firewall)
 2. [Add IDS](https://gns3vault.com/security/ip-traffic-export)
-3. 3. Demo Scenario -lack of firewall between LAN and cloud
+3. Demo Scenario -lack of firewall between LAN and cloud
