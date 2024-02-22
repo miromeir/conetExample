@@ -18,6 +18,7 @@ Process of creating a variant:
 5. Devices configuration(done by Elad and Miro).
 6. Upload to repository, in a folder. Each folder is named SxVy - x is a scenario number, y is a variant number. For Example: S1V1
 ## Available Scenarios
+https://gns3vault.com/labs/security
 1. [Basic Firewall Zones](https://gns3vault.com/security/basic-zone-based-firewall)
 2. [Add IDS](https://gns3vault.com/security/ip-traffic-export)
 3. Demo Scenario -lack of firewall between LAN and cloud
