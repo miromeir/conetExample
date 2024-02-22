@@ -24,8 +24,9 @@ https://gns3vault.com/labs/security
 3. Demo Scenario -lack of firewall between LAN and cloud 
 4. Configuring Unicast Reverse Path Forwarding (URPF) (https://gns3vault.com/security/unicast-reverse-path-forwarding-urpf)
 5. Configuring a transparent router  (https://gns3vault.com/security/transparent-ios-firewall)
-6. Time-Based ACL - S6 (https://gns3vault.com/security/time-based-access-list)
-7. TCP Intercept -S7 (https://gns3vault.com/security/tcp-intercept-watch-mode)
+6. Time-Based ACL -  (https://gns3vault.com/security/time-based-access-list)
+7. TCP Intercept Watch Mode (https://gns3vault.com/security/tcp-intercept-watch-mode)
 8. [Standard Access List](https://gns3vault.com/security/standard-access-list)
 9. Role Based CLI Access
 10. IP Source Tracker 
+14. TCP Intercept (https://gns3vault.com/security/tcp-intercept)
