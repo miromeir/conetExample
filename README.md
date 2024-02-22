@@ -23,3 +23,4 @@ https://gns3vault.com/labs/security
 2. [Add IDS](https://gns3vault.com/security/ip-traffic-export)
 3. Demo Scenario -lack of firewall between LAN and cloud
 4. Configuring Unicast Reverse Path Forwarding (URPF)
+5. Configuring a transparent router
